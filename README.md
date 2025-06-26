@@ -26,8 +26,7 @@
 | Spring Boot       | 3.4.5      |
 | Spring Framework  | 6.2.6      |
 | Gradle            | 8.12       |
-| Spring Security   | 최신 버전  |
-
+|-------------------|------------|
 
 
 
@@ -36,16 +35,15 @@
 ##  실행 방법
 ## 5. 실행 화면
 ## 6. 프로젝트 구조 📁
-## 7. 진행 현황
-## 8. 라이선스
-## 9. 진행 상태 및 TODO
-## 10. 참고한 오픈소스
+## 7. 라이선스
+## 8. 진행 상태 및 TODO
+## 0. 참고한 오픈소스
 - 로그인 기능:
   [SpringBoot_Security_Login (by GreatLaboratory)](https://github.com/GreatLaboratory/SpringBoot_Security_Login)
   - 해당 코드를 JDK 17, Spring Boot 3.4.5 환경에 맞게 수정하여 사용함
 
 ---
-## 11.현재 상태 🧪 
+## 10.진행 현황 🧪 
 ### 프로젝트 진행률
 Progress: 🟩⬜⬜⬜⬜⬜⬜⬜⬜ 5%
 
